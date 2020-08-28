@@ -7,8 +7,13 @@
     <lastmod>2020-08-27T21:22:33+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://haksungjang.github.io/openchain-kwg-new/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://haksungjang.github.io/openchain-kwg-new/en/docs/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -307,8 +312,13 @@
     <lastmod>2020-08-27T21:22:33+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://haksungjang.github.io/openchain-kwg-new/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://haksungjang.github.io/openchain-kwg-new/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -322,8 +332,13 @@
     <lastmod>2020-08-27T21:22:33+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="ko"
                 href="https://haksungjang.github.io/openchain-kwg-new/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://haksungjang.github.io/openchain-kwg-new/en/"
                 />
     <xhtml:link
                 rel="alternate"

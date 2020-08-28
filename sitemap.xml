@@ -2,6 +2,13 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
+	   	<loc>https://haksungjang.github.io/openchain-kwg-new/ko/sitemap.xml</loc>
+		
+	   	<lastmod>2018-10-06T00:00:00+00:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
 	   	<loc>https://haksungjang.github.io/openchain-kwg-new/no/sitemap.xml</loc>
 		
 	   	<lastmod>2020-08-27T21:22:33+09:00</lastmod>
