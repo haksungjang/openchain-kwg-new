@@ -9,10 +9,12 @@ other = "이전"
 other = "다음"
 
 [ui_read_more]
-other = "더 읽기"
+#other = "더 읽기"
+other = "Read more"
 
 [ui_search]
-other = "사이트에서 검색…"
+#other = "사이트에서 검색…"
+other = "Search this site…"
 
 # Used in sentences such as "Posted in News"
 [ui_in]

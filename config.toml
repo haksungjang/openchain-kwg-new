@@ -10,8 +10,8 @@ theme = ["docsy"]
 enableGitInfo = true
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
+contentDir = "content/ko"
+defaultContentLanguage = "ko"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -52,12 +52,20 @@ id = "UA-00000000-0"
 # Language configuration
 
 [languages]
+[languages.ko]
+title = "OpenChain KWG"
+description = "An OpenChain KWG site"
+languageName ="Korean"
+time_format_default = "2006.02.01"
+time_format_blog = "2006.02.01"
+# Weight used for sorting.
+weight = 1
 [languages.en]
 title = "OpenChain KWG"
 description = "An OpenChain KWG site"
 languageName ="English"
-# Weight used for sorting.
-weight = 1
+contentDir = "content/en"
+weight = 2
 [languages.no]
 title = "OpenChain KWG"
 description = "Docsy er operativsystem for skyen"
@@ -129,7 +137,7 @@ breadcrumb_disable = false
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
 sidebar_search_disable = false
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
-navbar_logo = false
+navbar_logo = true
 # Set to true to disable the About link in the site footer
 footer_about_disable = false
 
