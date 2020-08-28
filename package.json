@@ -1,21 +1,21 @@
 {
-  "name": "tech-doc-hugo",
+  "name": "openchain-kwg",
   "version": "0.0.1",
-  "description": "Hugo theme for technical documentation.",
+  "description": "OpenChain Korea Work Group.",
   "main": "none.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google/docsy-example.git"
+    "url": "git+https://github.com/OpenChain-Project/OpenChain-KWG.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/google/docsy-example/issues"
+    "url": "https://github.com/OpenChain-Project/OpenChain-KWG/issues"
   },
-  "homepage": "https://github.com/google/docsy-example#readme",
+  "homepage": "https://github.com/OpenChain-Project/OpenChain-KWG#readme",
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^9.8.6",

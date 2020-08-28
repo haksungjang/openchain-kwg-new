@@ -66,13 +66,6 @@ description = "An OpenChain KWG site"
 languageName ="English"
 contentDir = "content/en"
 weight = 2
-[languages.no]
-title = "OpenChain KWG"
-description = "Docsy er operativsystem for skyen"
-languageName ="Norsk"
-contentDir = "content/no"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
 
 [markup]
   [markup.goldmark]
@@ -112,9 +105,9 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
+github_repo = "https://github.com/OpenChain-Project/OpenChain-KWG"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
+github_project_repo = "https://github.com/OpenChain-Project/OpenChain-KWG"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -163,7 +156,7 @@ enable = false
 	name = "Mailing list"
 	url = "https://lists.openchainproject.org/g/korea-wg"
 	icon = "fa fa-envelope"
-        desc = "Join the Mailing List!"
+        desc = "Anyone in charge of open source compliance at a Korean company that develops and distributes software can participate."
 [[params.links.user]]
 	name = "Slack"
 	url = "https://openchain-kwg.slack.com"

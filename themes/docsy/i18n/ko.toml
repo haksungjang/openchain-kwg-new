@@ -25,21 +25,21 @@ other = "in"
 other = "All Rights Reserved"
 
 [footer_privacy_policy]
-other = "개인정보 보호 정책"
+other = "Privacy Policy"
 
 
 # Post (blog, articles etc.)
 [post_byline_by]
 other = "By"
 [post_created]
-other = "작성"
+other = "Created"
 [post_last_mod]
-other = "최종 수정"
+other = "Last modified"
 [post_edit_this]
-other = "페이지 편집"
+other = "Edit this page"
 [post_create_issue]
-other = "문서에 이슈 생성"
+other = "Create documentation issue"
 [post_create_project_issue]
-other = "프로젝트에 이슈 생성"
+other = "Create project issue"
 [post_posts_in]
 other = "Posts in"
