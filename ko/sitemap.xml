@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/meeting/1st/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/overview/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -17,8 +23,23 @@
   </url>
   
   <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/guide/planning/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/subgroup/planning/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/resource/specification/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/tasks/beds/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,7 +54,7 @@
   
   <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/tasks/ponycopters/configuring-ponycopters/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,8 +68,18 @@
   </url>
   
   <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/meeting/2nd/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/about/charter/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/getting-started/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -62,8 +93,23 @@
   </url>
   
   <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/guide/tooling/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/subgroup/tooling/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/resource/training/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/examples/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,7 +124,7 @@
   
   <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/tasks/ponycopters/launching-ponycopters/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -92,8 +138,33 @@
   </url>
   
   <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/meeting/3rd/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/guide/conformance/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/subgroup/conformance/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/resource/enterprise/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/about/subscribe/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/tutorials/multi-bear/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -108,7 +179,7 @@
   
   <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/tasks/porridge/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -122,7 +193,13 @@
   </url>
   
   <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/meeting/4th/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/concepts/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -136,8 +213,13 @@
   </url>
   
   <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/about/member/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/tasks/task/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -152,7 +234,7 @@
   
   <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/tutorials/tutorial2/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -166,8 +248,13 @@
   </url>
   
   <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/meeting/5th/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/tasks/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -181,8 +268,18 @@
   </url>
   
   <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/meeting/6th/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/meeting/7th/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/tutorials/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -197,7 +294,7 @@
   
   <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/reference/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -212,6 +309,7 @@
   
   <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/contribution-guidelines/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -225,38 +323,23 @@
   </url>
   
   <url>
-    <loc>https://haksungjang.github.io/openchain-kwg-new/blog/news/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/about/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://haksungjang.github.io/openchain-kwg-new/en/blog/news/"
+                href="https://haksungjang.github.io/openchain-kwg-new/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://haksungjang.github.io/openchain-kwg-new/blog/news/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://haksungjang.github.io/openchain-kwg-new/blog/releases/</loc>
-    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://haksungjang.github.io/openchain-kwg-new/en/blog/releases/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://haksungjang.github.io/openchain-kwg-new/blog/releases/"
+                href="https://haksungjang.github.io/openchain-kwg-new/about/"
                 />
   </url>
   
   <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/docs/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -275,8 +358,68 @@
   </url>
   
   <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/blog/news/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://haksungjang.github.io/openchain-kwg-new/en/blog/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://haksungjang.github.io/openchain-kwg-new/blog/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/blog/releases/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://haksungjang.github.io/openchain-kwg-new/en/blog/releases/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://haksungjang.github.io/openchain-kwg-new/blog/releases/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/resource/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/meeting/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/subgroup/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/guide/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/guide/conformance/1st-meeting/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/subgroup/conformance/1st-meeting/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/blog/2018/10/06/easy-documentation-with-docsy/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -290,8 +433,83 @@
   </url>
   
   <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/blog/2018/10/06/the-second-blog-post/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://haksungjang.github.io/openchain-kwg-new/en/blog/2018/10/06/the-second-blog-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://haksungjang.github.io/openchain-kwg-new/blog/2018/10/06/the-second-blog-post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/blog/2018/01/04/another-great-release/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://haksungjang.github.io/openchain-kwg-new/en/blog/2018/01/04/another-great-release/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://haksungjang.github.io/openchain-kwg-new/blog/2018/01/04/another-great-release/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/docs/getting-started/example-page/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://haksungjang.github.io/openchain-kwg-new/en/docs/getting-started/example-page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://haksungjang.github.io/openchain-kwg-new/docs/getting-started/example-page/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/docs/reference/parameter-reference/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://haksungjang.github.io/openchain-kwg-new/en/docs/reference/parameter-reference/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://haksungjang.github.io/openchain-kwg-new/docs/reference/parameter-reference/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/docs/tasks/ponycopters/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://haksungjang.github.io/openchain-kwg-new/en/docs/tasks/ponycopters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://haksungjang.github.io/openchain-kwg-new/docs/tasks/ponycopters/"
+                />
+  </url>
+  
+  <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/blog/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -305,8 +523,23 @@
   </url>
   
   <url>
+    <loc>https://haksungjang.github.io/openchain-kwg-new/community/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://haksungjang.github.io/openchain-kwg-new/en/community/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://haksungjang.github.io/openchain-kwg-new/community/"
+                />
+  </url>
+  
+  <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -325,110 +558,8 @@
   </url>
   
   <url>
-    <loc>https://haksungjang.github.io/openchain-kwg-new/blog/2018/10/06/the-second-blog-post/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://haksungjang.github.io/openchain-kwg-new/en/blog/2018/10/06/the-second-blog-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://haksungjang.github.io/openchain-kwg-new/blog/2018/10/06/the-second-blog-post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://haksungjang.github.io/openchain-kwg-new/blog/2018/01/04/another-great-release/</loc>
-    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://haksungjang.github.io/openchain-kwg-new/en/blog/2018/01/04/another-great-release/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://haksungjang.github.io/openchain-kwg-new/blog/2018/01/04/another-great-release/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://haksungjang.github.io/openchain-kwg-new/docs/getting-started/example-page/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://haksungjang.github.io/openchain-kwg-new/en/docs/getting-started/example-page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://haksungjang.github.io/openchain-kwg-new/docs/getting-started/example-page/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://haksungjang.github.io/openchain-kwg-new/docs/reference/parameter-reference/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://haksungjang.github.io/openchain-kwg-new/en/docs/reference/parameter-reference/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://haksungjang.github.io/openchain-kwg-new/docs/reference/parameter-reference/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://haksungjang.github.io/openchain-kwg-new/docs/tasks/ponycopters/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://haksungjang.github.io/openchain-kwg-new/en/docs/tasks/ponycopters/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://haksungjang.github.io/openchain-kwg-new/docs/tasks/ponycopters/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://haksungjang.github.io/openchain-kwg-new/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://haksungjang.github.io/openchain-kwg-new/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://haksungjang.github.io/openchain-kwg-new/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://haksungjang.github.io/openchain-kwg-new/community/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://haksungjang.github.io/openchain-kwg-new/en/community/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://haksungjang.github.io/openchain-kwg-new/community/"
-                />
-  </url>
-  
-  <url>
     <loc>https://haksungjang.github.io/openchain-kwg-new/search/</loc>
+    <lastmod>2020-08-28T20:37:40+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
